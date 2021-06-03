@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony concerning the blood of the old-covenant, and the blood of the new-covenant, &amp;c.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40273</idno><idno type="EEBO-CITATION">99831672</idno>
+  <idno type="VID">36137</idno>
+  <idno type="EEBO-PROQUEST">2240906608</idno>
+  
+            <idno type="STC">Wing F1926B</idno>
+            <idno type="STC">ESTC R220250</idno>
+            <idno type="PROQUEST">99831672</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831672e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony concerning the blood of the old-covenant, and the blood of the new-covenant, &amp;c.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: G.F., i.e. George Fox.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T --  Relation to the Old Testament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:36137:1"/>
+            <head>A Testimony concerning the <hi>Blood</hi> of the <hi>Old-Covenant,</hi> and the <hi>Blood</hi> of the <hi>New-Covenant,</hi> &amp;c.</head>
+            <p>
+               <hi>MOses</hi> took the Blood of the Oxen and Calves that were offered for Sacrifices, Burnt-Offerings and Peace-Offerings, and sprinkled it upon the Altar, and up<g ref="char:EOLhyphen"/>on the People, and said unto them, <hi>Behold the Blood of the Cove<g ref="char:EOLhyphen"/>nant which the Lord hath made with you:</hi> So the Life of the Beasts and other Creatures (which is the Blood) was the Blood of the Old Covenant.</p>
+            <p>And after <hi>Moses</hi> had sprinkled the People, he sprinkled the Tabernacle, and the Vessels of the Ministry, he sprinkled <hi>Aaron</hi> and his Sons, and he sprinkled the Books of the Old-Testament; so the first Testament and Covenant was dedicated with the Blood of Beasts and other Creatures, which was the Life of Beasts and other Creatures; and almost all things were by the Law of <hi>Moses</hi> purged with Blood, which was the Life of Beasts. And without shedding of Blood there was no Remission of sin. And (as I said before) when <hi>Moses</hi> had sprinkled the Books of the old-testament, &amp; the people with the blood (which was the life of Beasts) he said, <hi>This is the Blood of the Covenant and Testament which God hath enjoyned to you.</hi> So the Blood of the old covenant and the old testament, was the Life of the clean Beasts with<g ref="char:EOLhyphen"/>out blemish (as I said before) for is not the Blood the Life? And it is not possible that the Blood, the Life of Bulls, Goats or other Creatures in the Old Covenant should take away sin. But in the New Covenant its written, <hi>Forasmuch as we are not redeemed with Corruptible things, nor with Silver nor Gold from our vain Conversations or Tradition of our Fore-fathers, but with the precious Blood of Christ, a Lamb without Blemish or Spot,
+<pb n="2" facs="tcp:36137:2"/> which Lamb was fore-ordained, before the Foundation of the World,</hi> and was manifested in the Apostle's Time and Dayes, which he call, the Last Times. Silver and Gold are Corruptible things, which cannot redeem from Corruption, nor the Blood of Bulls, Goats or other Creatures, which will Corrupt, but the B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood of the Lamb, which was ordained before the Foundation of the World, and manifested in the Last Times, in the New Covenant; this precious Blood of the Lamb, without spot or blemish, Christ Jesus, doth not corrupt, for it doth redeem from the Traditions of our Fore fathers the <hi>Jews</hi> in the Old Cove<g ref="char:EOLhyphen"/>nant, and the corruptible Blood of Bulls, Goats and other cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>tures, that could not take away Sin. And so by the Blood of the Lamb Christ Jesus, the Saints are redeemed from their vain Conversation and corruptible Life, to a Conversation in Heaven and Incorruptible Life.</p>
+            <p>And as <hi>Moses</hi> in the Old Covenant sprinkled the P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople with the Blood, the Life of Beasts; so Christ our High Priest sprinkles the Hearts and Consciences of his People in the New Covenant with his Blood, his Life, <hi>from their dead Works, that they may serve the Living God in newness of Life:</hi> And as the Blood of the Old Covenant was the Life of the Beasts, so the Blood of the Everlasting Covenant is the Life of Christ the Lamb, ordain'd before the Foundation of the World, who is the great Shepherd of his Sheep; through the Blood of his Everlasting Covenant <hi>he makes his Saints Perfect in every good Work to do h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Will, work<g ref="char:EOLhyphen"/>ing in them that which is well pleasing in his sight.</hi> So it is clear, the Blood of the Everl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng New Covenant is the Life of Christ Jesus; and the Blood of the Old Covenant was the Life of the Beasts, and the bodies of those Beasts in the old covenant were burnt without the <hi>Jews</hi> Camp, and the blood was brought into the Sanctuary by the High-Priest, as an Attonement for the sins of the Priests and People; wherefore Jesus also, that he might sanctifie hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People with his own blood, suffer'd without the gates of <hi>Jerusalem:</hi> Let us go therefore unto him (to wit, Christ) without the <hi>Jews</hi> camp, bearing Christs reproach, who was re<g ref="char:EOLhyphen"/>proached, who sanctifies with his blood, his life, which dedicates the new covenant; so that all may come to Jesus the Mediator
+<pb n="3" facs="tcp:36137:2"/> of the new covenant, and his blood of sprinkling, that speaketh better things than that of <hi>Abel,</hi> or of the blood of Bulls and Goats the life of Beasts; for Christ being a High-Priest, and of a more perfect Tabernacle than that which was made with hands in the old covenant, did not enter into the holy place made with hands, by the blood of Bulls, Goats and Calves, as the Priests of the old covenant did. But Christ, the Lamb of God, ordained be<g ref="char:EOLhyphen"/>fore the Foundation of the World, which was manifested in time, by his own blood, his life, entered once into the holy place, into Heaven it self (now to appear in the presence of God for us) having obtain'd eternal Redemption for us: so it is the blood, the life of Christ in the new covenant, that cleanseth from all sin, who through the eternal Spirit offered himself without spot to God, to <hi>purge our Consciences from dead Works, to serve the living God:</hi> for this cause he is the Mediator of the new Testament.</p>
+            <p>And so Christ was once offered for sin, who tasted Death for every man; so he takes away the first covenant, that he may establish the second, and by one offering he hath perfected for<g ref="char:EOLhyphen"/>ever them that are Sanctified; so it is by the blood of Christ, by which all his People's sins are washed away, who did and do con<g ref="char:EOLhyphen"/>fess, that Christ had redeemed them to God by his blood, and their Garments were made white with the blood of the Lamb.</p>
+            <p>So the blood of the old covenant was the life of the Beast<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and other creatures; and the blood of the new covenant is the life of Christ Jesus, who saith, <hi>Except ye eat my Flesh, and drink my B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood, ye have no Life n me.</hi> So the blood of the new covenant is not ac<g ref="char:EOLhyphen"/>cording to the old; and so with this blood of the new covenant must every one feel their Hearts sprinkled, if they have life; and in this new covenant they shall all know the Lord, &amp;c. And by this blood of Jesus, his life in the new covenant, they are justi<g ref="char:EOLhyphen"/>fied, in whom we have redemption and the forgiveness of sins; and Christ hath purchased his Church with his own blood, his life, and their Faith doth stand in his blood, which is the Life of the Lamb. Therefore the Apostle saith, <hi>If ye walk in the Light, as he is in the Light, then have ye fellowship one with another, and the blood of Christ Jesus his Son cleanses from all sin.</hi> So it is not the blood of Bulls, Goats or the blood of other creatures, which was the blood of the old covenant, nor their other outward washings in it, that
+<pb n="4" facs="tcp:36137:3"/> takes away sin; but the blood of the new covenant, which is the blood of the Lamb without blemish, Christ Jesus, the blood of the Lamb, the life of the Lamb, with which Christ, the High-Priest sanctifies, cleanses and redeems; and he washes with his own life, his blood; yea, he sprinkles the Altar of their Hearts, that they may offer a Sacrifice of praise to God continually, that i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the fruits of our lips giving thanks to his Name.</p>
+            <p>So you are bought and purchased with the blood of Christ, the life of Christ, who has dyed for you, and risen for your Ju<g ref="char:EOLhyphen"/>stification, that all might live to him, and not to themselves, and glorifie him in Body, Soul and Spirit, which are his, who hath purchased you with his blood, his life: so worthy is the Lamb to receive glory and honour, who hath redeemed us to God by his blood, and hath washed us from our sins by his blood, and our Garments are made white by the blood of the Lamb. So the Saints do overcome by the blood, the life of the Lamb, who was dead, and is alive again, and lives for evermore.</p>
+            <p>So the blood of the old covenant was the life of Lambs and Beasts without blemish, by which all things were cleansed and sprinkled withal; yea, the Tabernacle and the Vessels, Pri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sts and People with the blood, the life of the clean Beast<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without blemish, in the old covenant and old testament; but the blood of the new covenant &amp; of the new testament, his blood is the life of the Lamb, Christ Jesus, the Son of God without blemish, spot, sin or guile; a Lamb prepared before the Foundation of the sin<g ref="char:EOLhyphen"/>ful World was: So it is by the life, the blood of this spotless Lamb, that all his people are sanctified and redeemed to God, and sprinkled and washed, their Hearts, Consciences, Tabernacles, Vessels and Altar in the Tabernacle, and the fat consumed by his Fire on the Altar, by which they come to be a Royal Priest<g ref="char:EOLhyphen"/>hood, offering up spiritual Sacrifices to God through Jesus Christ.</p>
+            <p>So the Blood of the New and Everlasting Covenant is the Life of Christ, which all the Believers in his Light are to walk in, and to be cleansed by it, giving all Honour and Glory to God, and the Lamb, who hath Redeemed us to God by his Blood.</p>
+            <closer>
+               <signed>G. F.</signed>
+               <dateline>Swarthmore, <date>the 7th of the 12th Moneth 1678.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:36137:3"/>
+            <p>ANd whereas many Lyes and False Reports have been cast up<g ref="char:EOLhyphen"/>on us by both Priests and Professors, that we do slight, deny and undervalue; the Blood of Christ Jesus, who do value and esteem it more than any of them; for how can they value or esteem the Blood of Christ that plead for sin Term of Life! which makes for the <hi>Popish doctrine</hi> of <hi>Purgatory</hi> when they are dead, who are not washed, and their Garments made white, nor cleansed from all sin, and redeemed to God by the Blood of the Lamb, from their vain Conversations and the Tradition of their Fore-fathers, neither have they so much Faith in the Blood of Christ the Lamb, ordained before the Foundation of the World, that it will so wash them, and cleanse them, and redeem them, or make them as clean as their Father <hi>Adam</hi> and Mother <hi>Eve</hi> was before they sell, and that they might come to sit toge<g ref="char:EOLhyphen"/>ther in heavenly places in Christ Jesus that never sell.</p>
+            <p>And it may be seen it was the Life of the clean Beasts from <hi>Abels</hi> time, that was offered and accepted of by God to cleanse withal, and therefore they were not to eat the Blood, for the Blood, the Life of the Beasts was offered to God for an Attone<g ref="char:EOLhyphen"/>ment upon his Altar: So its clear it was the Blood, the Life of the Beasts which God required to make Attonement with upon his Altar for their Souls: for the Lord saith, <hi>The Life of all Flesh is the Blood,</hi> and whosoever did eat it was to be cut off; for the Life of all Flesh, the Blood, was to be offered upon his Altar to make Attonement for their Soul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as the Lord re<g ref="char:EOLhyphen"/>quired.</p>
+            <p>Thus the first Covenant was dedicated with the Blood, which was the Life of all Flesh; But the new and second Covenant is dedicated with the Blood, the Life of Christ Jesus, which is the alone Attonement unto God, by which all his people are Washed, Sanctified, Cleansed and Redeemed to God; so that their Faith and Testimony stands in the Blood of the Lamb, the Life of Christ Jesus, fore-ordained before the World was, a Lamb with<g ref="char:EOLhyphen"/>out Blemish, Guile, Spot or Sin, which cleanses from all spots
+<pb n="6" facs="tcp:36137:4"/> and sin, and washes and makes clean the Garments. And Christ abolishes both the Blood of Beasts, and the Altar, and all the Tra<g ref="char:EOLhyphen"/>ditions in the Law, and their Offering<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Sacrifices before the Law, by the offering up of himself on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the end of the World a Lamb ordained before the Foundation of the World, therefore must every ones Faith and Testimony stand in him and his Blood. And who are the true Witnesses of this, but they only that have drunk of the Blood of Christ, and eaten of his Flesh, which he gives for the Life of the World, not such as talk of it only?</p>
+            <p>
+               <hi>In the beginning was the Word, and the Word was with God, and the Word was God; the same was in the beginning with God; all things were made by him, and without him was not any thing made that was made; and the Word was made flesh and dwelt amongst us, and we beheld his Glory as the Glory of the only begotten of the Father.</hi> And Christ said, <hi>I have glorified thee on Earth, I have finished thy Work which thou gavest me to do: And now, O Father, glo<g ref="char:EOLhyphen"/>rifie thou me with thy own self, with the glory which I had with thee before the World was, for thou lovedst me before the Foundation of the world,</hi> Joh. 17. So Christ a Lamb without spot or blemish, who redeems us from our vain Conversations and Traditions of our Fore-fathers the <hi>Jews, who verily was ordained before the Foun<g ref="char:EOLhyphen"/>dation of the World, but was manifested in these Last Times, &amp;c.</hi> 1 Pet. 1.19, 20. <hi>who hath put an end to all the</hi> Jews <hi>Offerings and Sacrifices,</hi> as the Apostle saith; for in the end of the World he hath appeared (to wit; Christ) to put away sin with the Sacri<g ref="char:EOLhyphen"/>fice of himself. For if the Blood of Bulls and Goats, which is their Life, and the Ashes of a Heifer sprinkling the Unclean, Sanctifieth to the purifying of the Flesh, in the Old Covenant; how much more shall the Blood of Christ, his Life, who hath through the Eternal Spirit offered himself without spot to God, <hi>Purge your Consciences from dead Works, to serve the Living God;</hi> so for this cause he is the Mediator of the New Testament, which is dedicated with his Blood, his Life: <hi>So Je<g ref="char:EOLhyphen"/>sus Christ was surely of a better Testament than that of the</hi> Jews, Heb. 7.22. <hi>For he by the Grace of God tasted Death for every Man,</hi> Heb. 2. and lighteth every man that cometh into the Wor d; and saith, <hi>I am the Light of the World, and he that follows
+<pb n="7" facs="tcp:36137:4"/> me shall not abide in Darkness, but shall have the Light of Life</hi> And the Apostle told the <hi>Ephesians,</hi> that he was <hi>to make all men see what is the fellowship of the Mystery, which since the beginning of the World hath been hid in God, who created all things by Jesus Christ,</hi> Ephes. 3. <hi>And he that hath the Son of God, hath Life; and he that hath not the Son of God, hath not Life.</hi>
+            </p>
+            <p>Here its clear Christ is the First and the Last, the Beginning and Ending, and over all in the Glory that he had with the Fa<g ref="char:EOLhyphen"/>ther before the World began; therefore let your Faith stand in Christ, and his Blood, his Life, by which ye are Washed, Sancti<g ref="char:EOLhyphen"/>fied, Purged, Cleansed and Redeemed to God, that God through Christ your Mediator may have the Glory in all your Hearts.</p>
+            <p>The Blood of the clean Beasts, which was the Life of the Beasts, with it did the High-Priest enter once a Year into the holy place made with hands, to make an Attonement for himself and the people of the <hi>Jews</hi> in the Old Covenant; but Christ our High Priest entered into Heaven, by his own Blood, his own Life, to make an Attonement for us; he t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sted Death for every man, and was a Propitiation for the sins of the whole World, who was dead, and is alive again, and lives for evermore; so he ever liveth to make Intercession for his people, and so his people have boldness to enter in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Holyest, to wit, into Heaven, by the Blood, the Life of Jesus, by a New and Liv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Way, which is Consecrated for us through the Vail, that is to say, his Flesh; Glory to God forever, through Jesus the Sa<g ref="char:EOLhyphen"/>viour, and Christ the Anointed of God.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
